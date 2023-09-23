@@ -2,7 +2,7 @@
   color: red;
   background-color: yellow;
 }
-.lesson-four-task-two h1:hover {
+a:hover ~ .title {
   background-color: green;
 }
 .lesson-four-task-three a:visited {
